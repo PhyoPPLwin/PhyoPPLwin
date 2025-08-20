@@ -46,6 +46,17 @@ I specialize in building **intelligent systems** and **modern web applications**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
 ---
+## 📊 GitHub Stats  
+
+![PhyoPPLwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhyoPPLwin&show_icons=true&theme=rose_pine)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhyoPPLwin&theme=rose_pine)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhyoPPLwin&layout=compact&theme=rose_pine)  
+
+[![PhyoPPLwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PhyoPPLwin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+---
 
 ## 💼 Experience Highlights  
 
