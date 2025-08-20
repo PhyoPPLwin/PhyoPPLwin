@@ -86,6 +86,6 @@ I specialize in building **intelligent systems** and **modern web applications**
 ## 📫 Let’s Connect!  
 
 - 📧 Email: [phyo12pyaepyae@gmail.com](mailto:phyo12pyaepyae@gmail.com)  
-- 💼 LinkedIn: *[(https://www.linkedin.com/in/phyo-pyae-pyae-lwin-4644b31b8/)*  
+- 💼 LinkedIn: [phyopyaepyaelwin](https://www.linkedin.com/in/phyo-pyae-pyae-lwin-4644b31b8/)
 
 ✨ *Open to collaborations in AI, Computer Vision, and Full-stack projects.*  
